@@ -1,0 +1,26 @@
+.DS_Store
+
+# Virtual Envs
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+#Ipython Notebook
+.ipynb_checkpoints
+
+# C extensions
+*.so
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore pickle files
+*.pkl
+*.pickle
+
+# Ignore local file
+local/
